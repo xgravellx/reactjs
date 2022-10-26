@@ -1,6 +1,6 @@
 # Todo App
 
-![image](https://user-images.githubusercontent.com/88984994/198005117-15f930bf-31e7-4ead-a895-ffcaf0c26661.png)
+![image](https://user-images.githubusercontent.com/88984994/198005234-06a63880-01c2-4842-a69f-e711808d9bc8.png)
 
 
 ## Available Scripts
