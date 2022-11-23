@@ -20,3 +20,4 @@
 ## [React Projects](./reactProjects)
   - User List App
   - Todo App
+  - Calculator App
