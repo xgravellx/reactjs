@@ -1,6 +1,4 @@
-# Calculator App
-
-![image](https://user-images.githubusercontent.com/88984994/205266516-c573908b-ef7f-405c-822b-f69d9038667d.png)
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
