@@ -3,15 +3,14 @@ import { Styled } from './Emoji.styled'
 import PropsType from 'prop-types'
 import { filterEmojis } from '../../utils/filterEmoji';
 
-const Emoji = ({emojisData, searchText}) => {
+const Emoji = ({emojisData}) => {
     const [filteredEmoji, setFilteredEmoji] = useState([]);
 
     useEffect(() => {
         setFilteredEmoji(filterEmojis({
             emojisData,
-            searchText,
         }))
-    }, [emojisData, searchText]);
+    }, []);
 
 
   return (
@@ -27,7 +26,6 @@ const Emoji = ({emojisData, searchText}) => {
 
 Emoji.PropsType = {
     emojisData: PropsType.array,
-    searchText: PropsType.string,
 }
 
 export default Emoji
