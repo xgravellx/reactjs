@@ -9,10 +9,10 @@ const Table = ({emojiTitle, emojiSymbol}) => {
             <tbody>
                 <tr >
                     <th scope="row">
-                        {emojiTitle}
+                        {emojiSymbol}
                     </th>
                     <td>
-                        {emojiSymbol}
+                        {emojiTitle}
                     </td>
                 </tr>
             </tbody>
