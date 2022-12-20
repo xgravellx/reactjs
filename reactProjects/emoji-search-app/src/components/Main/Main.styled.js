@@ -7,6 +7,5 @@ export const Styled = styled.div`
     align-items: center;
     align-content: center;
     justify-content: center;
-    margin-top: 1.5rem;
     width: 500px;
 `
